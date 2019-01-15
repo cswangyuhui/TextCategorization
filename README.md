@@ -14,11 +14,11 @@
 ## 程序结果
 ### 朴素贝叶斯结果
 
-<div align=center><img width="480" height="360" src="https://github.com/cswanngyuhui/TextCategorization/blob/master/result/bayes_result.png"/></div>
+<div align=center><img width="480" height="360" src="https://github.com/cswangyuhui/TextCategorization/blob/master/result/bayes_result.png"/></div>
 <br>
-<div align=center><img width="480" height="360" src="https://github.com/cswanngyuhui/TextCategorization/blob/master/result/bayes_confusion_matrix.png"/></div>
+<div align=center><img width="480" height="360" src="https://github.com/cswangyuhui/TextCategorization/blob/master/result/bayes_confusion_matrix.png"/></div>
 
 ### svm结果
-<div align=center><img width="480" height="360" src="https://github.com/cswanngyuhui/TextCategorization/blob/master/result/svm_result.png"/></div>
+<div align=center><img width="480" height="360" src="https://github.com/cswangyuhui/TextCategorization/blob/master/result/svm_result.png"/></div>
 <br>
-<div align=center><img width="480" height="360" src="https://github.com/cswanngyuhui/TextCategorization/blob/master/result/svm_confusion_matrix.png"/></div>
+<div align=center><img width="480" height="360" src="https://github.com/cswangyuhui/TextCategorization/blob/master/result/svm_confusion_matrix.png"/></div>
